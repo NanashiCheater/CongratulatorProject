@@ -1,0 +1,9 @@
+.rounded-image {
+    border-radius: 10px; 
+  }
+  
+  .input_data,
+  .pers_data {
+    width: 100%; /* Заполнить доступное пространство по ширине */
+    box-sizing: border-box; /* Учесть границы и отступы внутри элемента */
+  }
